@@ -17,3 +17,4 @@ elif num2 < num1 and num2 < num3:
 elif num3 < num1 and num3 < num2:
     print("Menor ", num3)      
 
+ 

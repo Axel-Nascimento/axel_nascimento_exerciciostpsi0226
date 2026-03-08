@@ -24,4 +24,4 @@ elif compra > 500:
     print("Nome: ",nome,)
     print("Compra: ",compra," Euros")
     print("Desconto: ",desconto, " Euros")
-    print("Total a pagar: ",compra-desconto, " Euros")
+    print("Total a pagar: ",compra-desconto, " Euros") 

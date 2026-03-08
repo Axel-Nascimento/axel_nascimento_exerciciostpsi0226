@@ -76,6 +76,6 @@ else:
     inpar += 1   
 
 print("Pares: ",pares,)   
-print("Impares: ",inpar,)            
+print("Impares: ",inpar,)             
 
 

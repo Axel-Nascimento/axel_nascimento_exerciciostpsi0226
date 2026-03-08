@@ -37,4 +37,4 @@ if al10 >= media:
     contador += 1
 
 print("Média:", media)
-print("Alunos com nota igual ou acima da média:", contador)
+print("Alunos com nota igual ou acima da média:", contador) 

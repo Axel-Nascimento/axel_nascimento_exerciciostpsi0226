@@ -20,4 +20,4 @@ match tipo:
         print("Pedido desconhecido")
 
 
-valor = int(input("Qual o valor da " + tipo + "? "))
+valor = int(input("Qual o valor da " + tipo + "? ")) 

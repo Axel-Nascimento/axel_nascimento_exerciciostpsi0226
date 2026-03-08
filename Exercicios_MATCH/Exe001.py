@@ -12,4 +12,4 @@ match dia:
     case "sábado" | "sabado" | "domingo":
         print("Fim de semana")
     case _:
-        print("Dia inválido")
+        print("Dia inválido") 

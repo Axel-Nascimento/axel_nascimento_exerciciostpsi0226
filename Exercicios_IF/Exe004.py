@@ -15,3 +15,4 @@ else:
  print("Cheque descontado, Saldo atual: ",s-c, "Euros")
 
 
+ 

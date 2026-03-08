@@ -17,4 +17,4 @@ match nota:
     case n if n < 50:
         print("Insuficiente")
     case _:
-        print("Nota inválida")
+        print("Nota inválida") 

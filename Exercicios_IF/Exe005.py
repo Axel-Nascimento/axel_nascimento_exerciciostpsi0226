@@ -33,4 +33,4 @@ else:
         maior = num1
 
 print("Crescente:", menor, ",", meio, ",", maior)
-print("Decrescente:", maior, ",", meio, ",", menor)
+print("Decrescente:", maior, ",", meio, ",", menor) 

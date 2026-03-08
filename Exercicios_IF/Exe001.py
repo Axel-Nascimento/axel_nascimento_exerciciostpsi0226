@@ -19,7 +19,7 @@ seg = srestante
 print(hr, "hora(s),", min, "minuto(s) e", seg, "segundo(s)")
 
 
-
+ 
 
 
 

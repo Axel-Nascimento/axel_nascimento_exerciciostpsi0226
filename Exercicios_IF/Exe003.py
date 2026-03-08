@@ -8,4 +8,4 @@ if num1 < num2:
     print("Decrescente:", num2, ",", num1)
 else:
     print("Crescente:", num2, ",", num1)
-    print("Decrescente:", num1, ",", num2)
+    print("Decrescente:", num1, ",", num2) 
